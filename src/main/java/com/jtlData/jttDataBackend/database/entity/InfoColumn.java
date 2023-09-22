@@ -20,4 +20,6 @@ public class InfoColumn {
     private  String tableName;
     private  String schemaName;
 
+    private String columnType;
+
 }
